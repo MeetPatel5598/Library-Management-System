@@ -1,0 +1,5 @@
+ErrorDocument 400 http://localhost/LMS/error_page.php
+ErrorDocument 401 http://localhost/LMS/error_page.php
+ErrorDocument 403 http://localhost/LMS/error_page.php
+ErrorDocument 404 http://localhost/LMS/error_page.php
+ErrorDocument 500 http://localhost/LMS/error_page.php
